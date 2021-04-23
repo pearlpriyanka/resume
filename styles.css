@@ -1,0 +1,139 @@
+body {
+    margin:0;
+    text-align: center;
+    background-color:#e0ebe8;
+}
+
+hr {
+    border:#d1cebd;
+    border-style:none;
+    border-top-style:dotted;
+    width:10%;
+    margin:100px auto;
+    border-width: 5px;
+    
+}
+.intro{
+    width:30%;
+    margin:auto;
+    line-height: 2;
+}
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:250px;
+}
+
+.top-cloud{
+    position:absolute;
+    top:150px;
+    right:350px; 
+}
+
+.mountain{
+    margin:150px;
+}
+
+.top-container {
+    
+    background-color:#e0ebe8;
+    text-align: center;
+    padding-top:100px;
+}
+
+.top{
+    font-weight: normal;
+}
+
+h1 {
+    margin:100px auto 0px auto;
+    font-family:'Sacramento',cursive;
+    font-size:562.5%;
+    color:#216353;
+    font-weight: normal;
+}
+
+h2{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 2.5rem;
+    color:  #00bdaa;
+    padding-bottom: 10px;
+}
+
+h3{
+    color:  #00bdaa;;
+    font-size: 30px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.temp {
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn{
+    border-end-start-radius: 5px;
+    border-end-end-radius: 5px;
+    border-radius: 5px;
+    max-height: 30px;
+    line-height: 40px;
+    color:black;
+    font-family: serif;
+    max-width: 230px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 5px 2px;
+    background-color:#00bdaa;
+    border-color: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+
+.contact-me{
+    width:40%;
+    margin:40px auto;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: #00bdaa;
+    padding:50px 0px 20px;
+}
+
+.copyright{
+    color:black;
+    font-size: 0.75rem;
+    padding:20px;
+}
+a{
+    color:black;
+    font-family:'Monsterrat';
+    margin:10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:white;
+}
